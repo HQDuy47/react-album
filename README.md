@@ -8,3 +8,5 @@ Develop a website with the following features:
 4.  Deploy the website to a public host for accessibility to a broader audience.
 
 ## Deployment
+
+https://hqduy47.github.io/react-album/
